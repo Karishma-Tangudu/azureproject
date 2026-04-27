@@ -1,0 +1,15 @@
+{
+	"name": "adf-azureprojectkari",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "65d558bc-1b83-4ad3-8977-e458bd6c9729",
+		"tenantId": "4b3f1fea-9fab-4d2b-9bda-21405145d1dd"
+	}
+}
